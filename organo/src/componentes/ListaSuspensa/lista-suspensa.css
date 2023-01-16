@@ -1,6 +1,5 @@
 .lista-suspensa {
     margin: 24px 0;
-
 }
 
 .lista-suspensa label {
@@ -8,10 +7,10 @@
     margin-bottom: 8px;
     font-size: 24px;
 }
-
-.lista-suspensa select{
-    background-color: white;
+.lista-suspensa select {
+    background: #FFFFFF;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 0px;
     width: 100%;
     border: none;
     font-size: 24px;
